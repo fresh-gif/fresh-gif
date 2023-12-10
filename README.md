@@ -4,16 +4,22 @@
 <b>Diploma in Information and Communication Technology</b> 
 
 <h2>👨‍💻 Software Development Projects:</h2>
+<h2>applications</h2>
 
+- <b>C++</b>
 
-- <b>javascript ( web Applications)</b>
-  - [frontend school application system] (https://github.com/fresh-gif/school-app)
-  - [backend school application] (https://github.com/fresh-gif/school-app)
+   - [backend school application] (https://github.com/fresh-gif/Smart-lights-)
   
-- <b>Python</b>
-  - [school aplication system  (Datastructures and Algorithms )](https://github.com/fresh-gif/school-app)
-- <b>severs and databases</b>
-  - [express and cowboys(my SQL database)](https://github.com/fresh-gif/school-app)
+ - <b>javascript </b>
+   - [frontend school application system] (https://github.com/fresh-gif/school-app)
+   - [backend school application] (https://github.com/fresh-gif/school-app)
+   - [frontend smart lights application] (https://github.com/fresh-gif/Smart-lights)
+  
+ - <b>Python</b>
+   - [school application system  (Data structures and Algorithms )](https://github.com/fresh-gif/school-app)
+ - <b>servers and databases</b>
+   - [phpsmart lights application (https://github.com/fresh-gif/Smart-lights)]
+   - [express and cowboys(my SQL database)](https://github.com/fresh-gif/school-app)
 
 <h2> 🤳 Connect with me:</h2>
 
